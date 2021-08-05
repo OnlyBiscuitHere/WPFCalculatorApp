@@ -1,0 +1,12 @@
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\bin\Debug\net5.0\CalculatorModel.deps.json
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\bin\Debug\net5.0\CalculatorModel.dll
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\bin\Debug\net5.0\ref\CalculatorModel.dll
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\bin\Debug\net5.0\CalculatorModel.pdb
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.csproj.AssemblyReference.cache
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.AssemblyInfoInputs.cache
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.AssemblyInfo.cs
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.csproj.CoreCompileInputs.cache
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.dll
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\ref\CalculatorModel.dll
+C:\Users\h8bmf\source\repos\CalculatorApp\CalculatorModel\obj\Debug\net5.0\CalculatorModel.pdb

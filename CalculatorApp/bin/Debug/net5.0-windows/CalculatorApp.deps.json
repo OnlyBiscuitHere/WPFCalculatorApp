@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalculatorApp/1.0.0": {
+        "dependencies": {
+          "CalculatorModel": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorApp.dll": {}
+        }
+      },
+      "CalculatorModel/1.0.0": {
+        "runtime": {
+          "CalculatorModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
